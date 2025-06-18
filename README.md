@@ -43,6 +43,23 @@ const suyash = {
 
 ---
 
+## 🏅 Achievements
+
+- ✅ Solved **150+ DSA Problems** on LeetCode
+- 🥈 3⭐ Coder at CodeChef
+- 🎓 2nd Year IT Engineering Student at SPPU
+- 📢 Delivered tech talks in college events
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=suyashdive2005&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
 ## 🏆 Competitive Programming
 
 ### 🥇 LeetCode Stats
@@ -73,6 +90,14 @@ const suyash = {
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=suyashdive2005&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🌍 Visitors Map
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/suyashdive2005/count.svg" alt="Visitor Count"/>
 </div>
 
 ---
