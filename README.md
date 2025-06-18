@@ -16,8 +16,9 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/f172b9fd4ff446458fb4c3f4c8c64a87.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
+give me more and better images like thiss
 
 
 ```javascript
