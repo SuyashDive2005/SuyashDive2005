@@ -31,7 +31,7 @@ const suyash = {
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=suyashdive2005&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=suyashdive2005&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
 ---
