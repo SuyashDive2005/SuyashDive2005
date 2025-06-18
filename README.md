@@ -1,7 +1,7 @@
 # <div align="center">👨‍💻 Suyash Dive</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Frontend+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Frontend+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;React+Enthusiast+%E2%9A%9B%EF%B8%8F;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -28,13 +28,7 @@ const suyash = {
 
 ---
 
-## 🔥 GitHub Streak
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=suyashdive2005&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
@@ -50,11 +44,6 @@ const suyash = {
 ### 🥇 LeetCode Stats
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/suyash1987?theme=nord&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
-</div>
-
-### 🏅 CodeChef Stats
-<div align="center">
-  <img src="https://codechef-readme-stats.vercel.app/api?username=hexen_cypher7&theme=dark" alt="CodeChef Stats" />
 </div>
 
 ---
