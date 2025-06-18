@@ -14,6 +14,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=120&section=header&text=&fontSize=0" width="100%">
 </div>
 
+---
+
+<table align="center">
+<tr>
+<td>
+
 ## 🎯 About Me
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -32,7 +38,15 @@ const suyash = {
 
 <br clear="right"/>
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table align="center">
+<tr>
+<td>
 
 ## 📊 GitHub Analytics
 
@@ -41,7 +55,15 @@ const suyash = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashdive2005&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table align="center">
+<tr>
+<td>
 
 ## 🏅 Achievements
 
@@ -49,7 +71,15 @@ const suyash = {
 - 🥈 2⭐ Coder at CodeChef
 - 🎓 2nd Year IT Engineering Student at SPPU
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table align="center">
+<tr>
+<td>
 
 ## 🏆 Competitive Programming
 
@@ -58,7 +88,15 @@ const suyash = {
   <img src="https://leetcard.jacoblin.cool/suyash1987?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
 </div>
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table align="center">
+<tr>
+<td>
 
 ## 🛠️ Tech Arsenal
 
@@ -75,7 +113,15 @@ const suyash = {
 
 </div>
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table align="center">
+<tr>
+<td>
 
 ## 🏆 GitHub Trophies
 
@@ -83,7 +129,15 @@ const suyash = {
   <img src="https://github-profile-trophy.vercel.app/?username=suyashdive2005&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table align="center">
+<tr>
+<td>
 
 ## 📈 Profile Views & Followers
 
@@ -92,7 +146,15 @@ const suyash = {
   <img src="https://img.shields.io/github/followers/suyashdive2005?label=Followers&style=for-the-badge&color=FF6B6B&logoColor=white" alt="GitHub Followers" />
 </div>
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table align="center">
+<tr>
+<td>
 
 ## 🤝 Connect With Me
 
@@ -134,6 +196,10 @@ const suyash = {
     </tr>
   </table>
 </div>
+
+</td>
+</tr>
+</table>
 
 ---
 
