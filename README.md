@@ -1,4 +1,4 @@
-# <div align="center"># 👋 Hi, I'm **Prathamesh Sahebrav Jadhav**
+# <div align="center"># 👋 Hi, I'm **Suyash Dive**
 
 ### Frontend Developer | Problem Solver | Open Source Enthusiast</div>
 <div align="center">
