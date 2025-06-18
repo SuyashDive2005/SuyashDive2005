@@ -44,8 +44,30 @@ const suyash = {
 
 ### 🥇 LeetCode Stats
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/suyash1987?theme=wtf&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/suyash1987?theme=dark&font=Fira%20Code&ext=contest&animation=true" alt="LeetCode Stats" style="transition: all 0.3s ease-in-out; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 107, 107, 0.3);" />
 </div>
+
+<style>
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+img[alt="LeetCode Stats"] {
+  animation: fadeInUp 0.8s ease-out;
+}
+
+img[alt="LeetCode Stats"]:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px rgba(255, 107, 107, 0.4);
+}
+</style>
 
 ---
 
