@@ -1,5 +1,6 @@
-# <div align="center">👨‍💻 Suyash Dive</div>
+# <div align="center"># 👋 Hi, I'm **Prathamesh Sahebrav Jadhav**
 
+### Frontend Developer | Problem Solver | Open Source Enthusiast</div>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Frontend+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;React+Enthusiast+%E2%9A%9B%EF%B8%8F;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
