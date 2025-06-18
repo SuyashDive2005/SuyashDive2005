@@ -39,11 +39,11 @@ const suyash = {
 
 ---
 
-## 🏆 LeetCode & GitHub Achievements
+## 🏆 Competitive Programming
 
+### 🥇 LeetCode Stats
 <div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=suyash1987&theme=dark" alt="LeetCode Heatmap" />
-  <img src="https://github-profile-trophy.vercel.app/?username=suyashdive2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://leetcard.jacoblin.cool/suyash1987?theme=nord&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
 </div>
 
 ---
@@ -61,6 +61,14 @@ const suyash = {
 ### ⚙️ Tools & Technologies
 <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,c,cpp&theme=dark" />
 
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suyashdive2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
 </div>
 
 ---
