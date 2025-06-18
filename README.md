@@ -1,8 +1,13 @@
 # <div align="center">👋 Hi, I'm **Suyash Dive**
 
-### Frontend Developer | Problem Solver | Open Source Enthusiast</div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=440&lines=Frontend+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;React+Enthusiast+%E2%9A%9B%EF%B8%8F;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+
+### Frontend Developer | Problem Solver | Open Source Enthusiast
+
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=440&lines=Frontend+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -29,8 +34,6 @@ const suyash = {
 
 ---
 
-
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -44,7 +47,7 @@ const suyash = {
 
 ### 🥇 LeetCode Stats
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/suyash1987?theme=wtf&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/suyash1987?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
 </div>
 
 ---
