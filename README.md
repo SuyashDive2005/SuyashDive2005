@@ -44,7 +44,7 @@ const suyash = {
 
 ### 🥇 LeetCode Stats
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/suyash1987?theme=unicorn&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/suyash1987?theme=wtf&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
 </div>
 
 ---
@@ -90,7 +90,7 @@ const suyash = {
     <tr>
       <td align="center" width="200">
         <a href="https://linkedin.com/in/suyash%20dive">
-          <img src="https://img.shields.io/badge/-LinkedIn-DC143C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=DC143C" alt="LinkedIn"/>
+          <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
         </a>
       </td>
       <td align="center" width="200">
@@ -107,17 +107,17 @@ const suyash = {
     <tr>
       <td align="center">
         <a href="https://codechef.com/users/hexen_cypher7">
-          <img src="https://img.shields.io/badge/-CodeChef-B22222?style=for-the-badge&logo=codechef&logoColor=white&labelColor=B22222" alt="CodeChef"/>
+          <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=5B4638" alt="CodeChef"/>
         </a>
       </td>
       <td align="center">
         <a href="https://leetcode.com/suyash1987">
-          <img src="https://img.shields.io/badge/-LeetCode-FF4500?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FF4500" alt="LeetCode"/>
+          <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" alt="LeetCode"/>
         </a>
       </td>
       <td align="center">
         <a href="https://auth.geeksforgeeks.org/user/divesu4k3y">
-          <img src="https://img.shields.io/badge/-GeeksforGeeks-CD5C5C?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=CD5C5C" alt="GeeksForGeeks"/>
+          <img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0F9D58" alt="GeeksForGeeks"/>
         </a>
       </td>
     </tr>
