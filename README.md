@@ -1,12 +1,12 @@
-# <div align="center"># 👋 Hi, I'm **Suyash Dive**
+# <div align="center">👋 Hi, I'm **Suyash Dive**
 
 ### Frontend Developer | Problem Solver | Open Source Enthusiast</div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Frontend+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;React+Enthusiast+%E2%9A%9B%EF%B8%8F;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=440&lines=Frontend+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;React+Enthusiast+%E2%9A%9B%EF%B8%8F;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=120&section=header&text=&fontSize=0" width="100%">
 </div>
 
 ## 🎯 About Me
@@ -34,8 +34,8 @@ const suyash = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suyashdive2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashdive2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suyashdive2005&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashdive2005&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
 ---
@@ -44,7 +44,7 @@ const suyash = {
 
 ### 🥇 LeetCode Stats
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/suyash1987?theme=nord&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/suyash1987?theme=unicorn&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
 </div>
 
 ---
@@ -69,7 +69,7 @@ const suyash = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suyashdive2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=suyashdive2005&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -77,8 +77,8 @@ const suyash = {
 ## 📈 Profile Views & Followers
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=suyashdive2005&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/suyashdive2005?label=Followers&style=for-the-badge&color=58A6FF&logoColor=white" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=suyashdive2005&label=Profile%20views&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/suyashdive2005?label=Followers&style=for-the-badge&color=FF6B6B&logoColor=white" alt="GitHub Followers" />
 </div>
 
 ---
@@ -90,7 +90,7 @@ const suyash = {
     <tr>
       <td align="center" width="200">
         <a href="https://linkedin.com/in/suyash%20dive">
-          <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+          <img src="https://img.shields.io/badge/-LinkedIn-DC143C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=DC143C" alt="LinkedIn"/>
         </a>
       </td>
       <td align="center" width="200">
@@ -107,17 +107,17 @@ const suyash = {
     <tr>
       <td align="center">
         <a href="https://codechef.com/users/hexen_cypher7">
-          <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=5B4638" alt="CodeChef"/>
+          <img src="https://img.shields.io/badge/-CodeChef-B22222?style=for-the-badge&logo=codechef&logoColor=white&labelColor=B22222" alt="CodeChef"/>
         </a>
       </td>
       <td align="center">
         <a href="https://leetcode.com/suyash1987">
-          <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" alt="LeetCode"/>
+          <img src="https://img.shields.io/badge/-LeetCode-FF4500?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FF4500" alt="LeetCode"/>
         </a>
       </td>
       <td align="center">
         <a href="https://auth.geeksforgeeks.org/user/divesu4k3y">
-          <img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0F9D58" alt="GeeksForGeeks"/>
+          <img src="https://img.shields.io/badge/-GeeksforGeeks-CD5C5C?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=CD5C5C" alt="GeeksForGeeks"/>
         </a>
       </td>
     </tr>
@@ -127,9 +127,9 @@ const suyash = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=&fontSize=0" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=120&section=footer&text=&fontSize=0" width="100%">
   
   ### 💫 *"Code is like humor. When you have to explain it, it's bad."* 
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
 </div>
