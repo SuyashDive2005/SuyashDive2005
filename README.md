@@ -1,16 +1,25 @@
-<div align="center">👋 Hi, I'm Suyash Dive
+# <div align="center">👋 Hi, I'm **Suyash Dive**
+
 <div align="center">
-Frontend Developer | Problem Solver | Open Source Enthusiast
+
+### Frontend Developer | Problem Solver | Open Source Enthusiast
+
 </div>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=440&lines=Frontend+Developer;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=120&section=header&text=&fontSize=0" width="100%">
 </div>
-🎯 About Me
+
+## 🎯 About Me
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
-javascriptconst suyash = {
+
+```javascript
+const suyash = {
     location: "India 🇮🇳",
     role: "Frontend Developer",
     currentFocus: ["Node.js", "DSA", "Problem Solving"],
@@ -19,63 +28,80 @@ javascriptconst suyash = {
     hobbies: ["Coding", "Problem Solving", "Learning New Tech"],
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
+```
+
 <br clear="right"/>
 
-📊 GitHub Analytics
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suyashdive2005&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashdive2005&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
-🏅 Achievements
+---
 
-✅ Solved 150+ DSA Problems on LeetCode
-🥈 2⭐ Coder at CodeChef
-🎓 2nd Year IT Engineering Student at SPPU
+## 🏅 Achievements
 
+- ✅ Solved **150+ DSA Problems** on LeetCode
+- 🥈 2⭐ Coder at CodeChef
+- 🎓 2nd Year IT Engineering Student at SPPU
 
-🏆 Competitive Programming
-🥇 LeetCode Stats
+---
+
+## 🏆 Competitive Programming
+
+### 🥇 LeetCode Stats
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/suyash1987?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
 </div>
 
-🛠️ Tech Arsenal
+---
+
+## 🛠️ Tech Arsenal
+
 <div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-🌐 Frontend Development
+
+### 🌐 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" />
-🔧 Backend Development
+
+### 🔧 Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" />
-</td>
-<td align="center" width="50%">
-🗄️ Database Management
+
+### 🗄️ Database
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark" />
-⚙️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux&theme=dark" />
-📦 Build Tools & Package Managers
-<img src="https://skillicons.dev/icons?i=npm,vite&theme=dark" />
-</td>
-</tr>
-</table>
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" />
+
+### ⚙️ Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode&theme=dark" />
+
 </div>
 
-🏆 GitHub Trophies
+---
+
+## 🏆 GitHub Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=suyashdive2005&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
-📈 Profile Views & Followers
+---
+
+## 📈 Profile Views & Followers
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=suyashdive2005&label=Profile%20views&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/suyashdive2005?label=Followers&style=for-the-badge&color=FF6B6B&logoColor=white" alt="GitHub Followers" />
 </div>
 
-🤝 Connect With Me
+---
+
+## 🤝 Connect With Me
+
 <div align="center">
   <table>
     <tr>
@@ -115,8 +141,14 @@ javascriptconst suyash = {
   </table>
 </div>
 
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=120&section=footer&text=&fontSize=0" width="100%">
-💫 "Code is like humor. When you have to explain it, it's bad."
+  
+  ### 💫 *"Code is like humor. When you have to explain it, it's bad."* 
+  
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
 </div>
+
+---
