@@ -65,10 +65,10 @@ const suyash = {
 <div align="center">
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,vite&theme=dark" />
 
 ### 🔧 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,npm&theme=dark" />
 
 ### 🗄️ Database
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark" />
@@ -77,7 +77,7 @@ const suyash = {
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" />
 
 ### ⚙️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,idea&theme=dark" />
 
 </div>
 
