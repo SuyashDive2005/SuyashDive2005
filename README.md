@@ -63,22 +63,7 @@ const suyash = {
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,vite&theme=dark" />
-
-### 🔧 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,npm&theme=dark" />
-
-### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark" />
-
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" />
-
-### ⚙️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,idea&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,vite,nodejs,express,npm,mysql,mongodb,postgresql,python,java,c,cpp,git,github,postman,linux,vscode,idea&theme=dark" />
 </div>
 
 ---
