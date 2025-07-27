@@ -23,10 +23,9 @@ const suyash = {
     location: "India",
     role: "Frontend Developer",
     currentFocus: ["Next.js", "TypeScript", "DSA", "Problem Solving"],
-    askMeAbout: ["React", "Next.js", "TypeScript", "shadcn/ui", "OOP", "MySQL"],
+    askMeAbout: ["React","OOP", "MySQL"],
     languages: ["TypeScript", "JavaScript", "Python", "Java", "C++"],
     frameworks: ["Next.js", "React", "Express.js", "Tailwind CSS"],
-    uiLibraries: ["shadcn/ui", "Radix UI", "Headless UI"],
     hobbies: ["Coding", "Problem Solving", "Learning New Tech"],
     funFact: "I debug with console.log() and I'm not ashamed!"
 } as const;
@@ -50,9 +49,6 @@ const suyash = {
 - Solved 200+ DSA Problems on LeetCode
 - 2 Star Coder at CodeChef
 - 3rd Year IT Engineering Student at SPPU
-- Building modern web apps with Next.js & TypeScript
-- Creating beautiful UIs with shadcn/ui
-
 ---
 
 ## Competitive Programming
