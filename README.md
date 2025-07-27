@@ -81,7 +81,6 @@ const suyash = {
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,idea&theme=dark" />
 </div>
----
 
 ## Profile Views & Followers
 
