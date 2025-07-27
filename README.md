@@ -83,8 +83,6 @@ const suyash = {
 </div>
 ---
 
----
-
 ## Profile Views & Followers
 
 <div align="center">
