@@ -1,4 +1,4 @@
-# <div align="center">👋 Hi, I'm **Suyash Dive**
+# <div align="center">Hi, I'm **Suyash Dive**
 
 <div align="center">
 
@@ -14,27 +14,29 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=120&section=header&text=&fontSize=0" width="100%">
 </div>
 
-## 🎯 About Me
+## About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
-```javascript
+```typescript
 const suyash = {
-    location: "India 🇮🇳",
+    location: "India",
     role: "Frontend Developer",
-    currentFocus: ["Node.js", "DSA", "Problem Solving"],
-    askMeAbout: ["React", "OOP", "MySQL"],
-    languages: ["JavaScript", "Python", "Java", "C++"],
+    currentFocus: ["Next.js", "TypeScript", "DSA", "Problem Solving"],
+    askMeAbout: ["React", "Next.js", "TypeScript", "shadcn/ui", "OOP", "MySQL"],
+    languages: ["TypeScript", "JavaScript", "Python", "Java", "C++"],
+    frameworks: ["Next.js", "React", "Express.js", "Tailwind CSS"],
+    uiLibraries: ["shadcn/ui", "Radix UI", "Headless UI"],
     hobbies: ["Coding", "Problem Solving", "Learning New Tech"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
+    funFact: "I debug with console.log() and I'm not ashamed!"
+} as const;
 ```
 
 <br clear="right"/>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suyashdive2005&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
@@ -43,32 +45,99 @@ const suyash = {
 
 ---
 
-## 🏅 Achievements
+## Achievements
 
-- ✅ Solved **150+ DSA Problems** on LeetCode
-- 🥈 2⭐ Coder at CodeChef
-- 🎓 2nd Year IT Engineering Student at SPPU
+- Solved 200+ DSA Problems on LeetCode
+- 2 Star Coder at CodeChef
+- 3rd Year IT Engineering Student at SPPU
+- Building modern web apps with Next.js & TypeScript
+- Creating beautiful UIs with shadcn/ui
 
 ---
 
-## 🏆 Competitive Programming
+## Competitive Programming
 
-### 🥇 LeetCode Stats
+### LeetCode Stats
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/suyash1987?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
 </div>
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
+### Frontend & Frameworks
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,vite,nodejs,express,npm,mysql,mongodb,postgresql,python,java,c,cpp,git,github,postman,linux,vscode,idea&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind,bootstrap,vite&theme=dark" />
+</div>
+
+### Backend & Databases
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,npm,mysql,mongodb,postgresql&theme=dark" />
+</div>
+
+### Programming Languages
+<div align="center">
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,c,cpp&theme=dark" />
+</div>
+
+### Tools & DevOps
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,idea&theme=dark" />
+</div>
+
+### UI Libraries & Design
+<div align="center">
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+<img src="https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI" />
+<img src="https://img.shields.io/badge/Headless%20UI-66E3FF?style=for-the-badge&logo=headlessui&logoColor=black" alt="Headless UI" />
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## Current Tech Stack
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="300">
+        <h3>Frontend</h3>
+        <p>Next.js 14+ with App Router</p>
+        <p>TypeScript for type safety</p>
+        <p>Tailwind CSS for styling</p>
+        <p>shadcn/ui for components</p>
+      </td>
+      <td align="center" width="300">
+        <h3>Performance</h3>
+        <p>Server Components</p>
+        <p>Static Site Generation</p>
+        <p>Image Optimization</p>
+        <p>Progressive Web Apps</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>Development</h3>
+        <p>ESLint & Prettier</p>
+        <p>Husky for Git hooks</p>
+        <p>TypeScript strict mode</p>
+        <p>Component-driven development</p>
+      </td>
+      <td align="center">
+        <h3>Focus Areas</h3>
+        <p>Modern React patterns</p>
+        <p>Accessibility (a11y)</p>
+        <p>Performance optimization</p>
+        <p>Clean architecture</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=suyashdive2005&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
@@ -76,7 +145,7 @@ const suyash = {
 
 ---
 
-## 📈 Profile Views & Followers
+## Profile Views & Followers
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=suyashdive2005&label=Profile%20views&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
@@ -85,7 +154,7 @@ const suyash = {
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
   <table>
@@ -131,7 +200,7 @@ const suyash = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=120&section=footer&text=&fontSize=0" width="100%">
   
-  ### 💫 *"Code is like humor. When you have to explain it, it's bad."* 
+  ### *"The best code is no code at all... but TypeScript makes the necessary code better!"* 
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
 </div>
