@@ -216,17 +216,6 @@ console.log(suyash.getMotivation()); // Let's build something amazing! 🚀
 
 </div>
 
----
-
-## <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="35"> **Snake Eating My Contributions**
-
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/suyashdive2005/suyashdive2005/output/github-contribution-grid-snake.svg)
-  
-</div>
-
----
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35"> **Random Dev Wisdom**
 
@@ -236,30 +225,7 @@ console.log(suyash.getMotivation()); // Let's build something amazing! 🚀
 
 </div>
 
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Support My Work**
-
 <div align="center">
-
-If you like my projects and want to support my work, consider:
-
-<a href="https://www.buymeacoffee.com/suyashdive"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=suyashdive&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" width="200" /></a>
-
-⭐ **Star my repositories** if you find them useful!  
-🍴 **Fork and contribute** to make them better!  
-📢 **Share with others** who might find them helpful!
-
-</div>
-
----
-
-<div align="center">
-  
-### **💫 "First, solve the problem. Then, write the code." - John Johnson**
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,22,24&height=100&section=footer" width="100%"/>
-
-**Made with ❤️ and lots of ☕ by Suyash Dive**
 
 </div>
