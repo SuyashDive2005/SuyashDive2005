@@ -8,7 +8,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Frontend+Developer+%7C+Full+Stack+Explorer;Building+Beautiful+Interfaces+%F0%9F%8E%A8;Solving+Complex+Problems+%F0%9F%A7%A9;Always+Learning%2C+Always+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Frontend+Developer+%7C+Full+Stack+Explorer;Building+Beautiful+Interfaces+%F0%9F%8E%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -156,36 +156,7 @@ console.log(suyash.getMotivation()); // Let's build something amazing! 🚀
 
 <br>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=suyash1987&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
 </div>
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> **Current Projects & Learning**
-
-```mermaid
-mindmap
-  root((Suyash's<br/>Tech Journey))
-    Frontend
-      Next.js 14
-      React 18
-      TypeScript
-      Tailwind CSS
-    Backend
-      Node.js
-      Express
-      PostgreSQL
-    DSA
-      LeetCode
-      CodeChef
-      Algorithms
-      Problem Solving
-    Tools
-      Git & GitHub
-      Linux
-      VS Code
-```
 
 ---
 
@@ -197,64 +168,39 @@ mindmap
 
 <table>
   <tr>
-    <td align="center" width="25%">
-      <a href="https://linkedin.com/in/suyash%20dive">
+    <td align="center" width="33%">
+      <a href="https://www.linkedin.com/in/suyashdive/">
         <img src="https://img.shields.io/badge/-Suyash%20Dive-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&logoWidth=25" alt="LinkedIn"/>
         <br>
         <img src="https://img.shields.io/badge/Let's-Connect-blue?style=flat-square"/>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <a href="https://instagram.com/suyash_435">
         <img src="https://img.shields.io/badge/-suyash__435-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&logoWidth=25" alt="Instagram"/>
         <br>
         <img src="https://img.shields.io/badge/Follow-Me-ff69b4?style=flat-square"/>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <a href="mailto:divesuyash@gmail.com">
         <img src="https://img.shields.io/badge/-divesuyash@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&logoWidth=25" alt="Gmail"/>
         <br>
         <img src="https://img.shields.io/badge/Email-Me-red?style=flat-square"/>
       </a>
     </td>
-    <td align="center" width="25%">
-      <a href="https://twitter.com/suyashdive">
-        <img src="https://img.shields.io/badge/-@suyashdive-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&logoWidth=25" alt="Twitter"/>
-        <br>
-        <img src="https://img.shields.io/badge/Tweet-Me-00acee?style=flat-square"/>
-      </a>
-    </td>
   </tr>
 </table>
 
-### **🎮 Competitive Programming Profiles**
+### **🎮 Competitive Programming Profile**
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://leetcode.com/suyash1987">
-        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116&logoWidth=25" alt="LeetCode"/>
-        <br>
-        <img src="https://img.shields.io/badge/200+-Problems-orange?style=flat-square"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://codechef.com/users/hexen_cypher7">
-        <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=5B4638&logoWidth=25" alt="CodeChef"/>
-        <br>
-        <img src="https://img.shields.io/badge/2⭐-Coder-brown?style=flat-square"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://auth.geeksforgeeks.org/user/divesu4k3y">
-        <img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0F9D58&logoWidth=25" alt="GeeksForGeeks"/>
-        <br>
-        <img src="https://img.shields.io/badge/Practice-Daily-green?style=flat-square"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://leetcode.com/suyash1987">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116&logoWidth=25" alt="LeetCode"/>
+    <br>
+    <img src="https://img.shields.io/badge/200+-Problems-orange?style=flat-square"/>
+  </a>
+</div>
 
 </div>
 
@@ -276,7 +222,7 @@ mindmap
 
 <div align="center">
   
-  ![snake gif](https://github.com/suyashdive2005/suyashdive2005/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/suyashdive2005/suyashdive2005/output/github-contribution-grid-snake.svg)
   
 </div>
 
@@ -302,4 +248,18 @@ If you like my projects and want to support my work, consider:
 
 ⭐ **Star my repositories** if you find them useful!  
 🍴 **Fork and contribute** to make them better!  
-📢 **Share with others** who migh
+📢 **Share with others** who might find them helpful!
+
+</div>
+
+---
+
+<div align="center">
+  
+### **💫 "First, solve the problem. Then, write the code." - John Johnson**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,22,24&height=100&section=footer" width="100%"/>
+
+**Made with ❤️ and lots of ☕ by Suyash Dive**
+
+</div>
