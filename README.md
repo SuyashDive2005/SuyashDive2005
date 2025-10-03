@@ -46,7 +46,7 @@ class Developer {
         tools: string[];
     } = {
         frontend: ["Next.js", "React", "TypeScript", "Tailwind"],
-        backend: ["Node.js", "Express", "PostgreSQL", "MongoDB"],
+        backend: ["Node.js", "Express", "MongoDB","MySQL"],
         languages: ["TypeScript", "JavaScript", "Python", "Java", "C++"],
         tools: ["Git", "Postman", "VS Code"]
     };
@@ -102,13 +102,13 @@ console.log(suyash.getMotivation()); // Let's build something amazing! 🚀
 <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind,bootstrap,vite,redux,materialui&perline=12&theme=dark" />
 
 ### ⚙️ **Backend & Databases**
-<img src="https://skillicons.dev/icons?i=nodejs,express,npm,mysql,mongodb,prisma,perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,npm,mysql,mongodb,perline=10&theme=dark" />
 
 ### 💻 **Programming Languages**
 <img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,cpp,c&perline=8&theme=dark" />
 
 ### 🛠️ **Tools & DevOps**
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,postman,vscode,idea,vercel&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,postman,vscode,idea,&perline=10&theme=dark" />
 
 </div>
 
