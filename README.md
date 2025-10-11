@@ -8,15 +8,10 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Frontend+Developer+%7C+Full+Stack+Explorer;Building+Beautiful+Interfaces+%F0%9F%8E%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Frontend+Developer+%7C+Full+Stack+Explorer;)](https://git.io/typing-svg)
 
 </div>
 
-<div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-  
-</div>
 
 ---
 
