@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> **Welcome to Suyash Dive's Digital Universe** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> **Welcome to Suyash's Digital Universe** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,22,24&height=180&section=header&text=Suyash%20Dive&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20|%20Problem%20Solver%20|%20Open%20Source%20Enthusiast&descSize=18&descAlignY=55" width="100%"/>
 
