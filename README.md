@@ -216,7 +216,7 @@ console.log(suyash.getMotivation()); // Let's build something amazing! 🚀
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&seed=20241109" alt="Dev Quote"/>
 
 </div>
 
