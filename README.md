@@ -94,7 +94,7 @@ console.log(suyash.getMotivation()); // Let's build something amazing! 🚀
 <div align="center">
 
 ### 🎨 **Frontend Development**
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind,bootstrap,vite,redux,materialui&perline=12&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind,bootstrap,vite&perline=12&theme=dark" />
 
 ### ⚙️ **Backend & Databases**
 <img src="https://skillicons.dev/icons?i=nodejs,express,npm,mysql,mongodb,perline=10&theme=dark" />
