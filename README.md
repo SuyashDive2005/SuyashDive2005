@@ -23,7 +23,7 @@
 class Developer {
     name: string = "Suyash Dive";
     location: string = "🇮🇳 India";
-    role: string = "Frontend Developer";
+    role: string = "Web Developer";
     education: string = "IT Engineering @ SPPU";
     year: number = 3;
     
