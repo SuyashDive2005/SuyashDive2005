@@ -3,14 +3,17 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SuyashDive2005&color=6366f1&style=flat-square&label=Profile+Views)
 ---
-
-## 👨‍💻 About Me
-
+<h2>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45"/>
+  About Me
+</h2>
 I’m a web developer who builds scalable and efficient web applications. I enjoy creating clean backend systems with Node.js and developing modern, responsive interfaces using Next.js and TypeScript.
 
 ---
-
-## 🔧 Technical Expertise
+<h2>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="45"/>
+  Technical Expertise
+</h2>
 
 <h3>
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="35"/>
@@ -86,8 +89,11 @@ I’m a web developer who builds scalable and efficient web applications. I enjo
 
 </p>
 
+<h2>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="45"/>
+  Competitive Programming
+</h2>
 
-## 💻 Competitive Programming
 
 ### 🔥 LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Suyash1987?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/Suyash1987/)
@@ -132,7 +138,10 @@ I’m a web developer who builds scalable and efficient web applications. I enjo
 ---
 
 
-## 🎮 GitHub Activity
+<h2>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="45"/>
+  GitHub Activity
+</h2>
 
 <p align="center">
   <img src="assets/space-shooter.gif" />
