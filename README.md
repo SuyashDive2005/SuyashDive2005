@@ -1,11 +1,7 @@
-# Suyash Dive
+# HI, I'm Suyash Dive
 **Web Developer** | NodeJs · MySql · React 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SuyashDive2005&color=6366f1&style=flat-square&label=Profile+Views)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/suyashdive/)
-[![Email](https://img.shields.io/badge/Email-divesuyash%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:divesuyash@gmail.com)
-
 ---
 
 ## 👨‍💻 About Me
@@ -16,37 +12,80 @@ I’m a Full Stack Web Developer focused on building scalable, production-ready 
 
 ## 🔧 Technical Expertise
 
-### **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<h3>
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="35"/>
+  Languages
+</h3>
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java" height="60"/>
+<img src="https://skillicons.dev/icons?i=js" height="60"/>
+<img src="https://skillicons.dev/icons?i=ts" height="60"/>
+<img src="https://skillicons.dev/icons?i=python" height="60"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="60"/>
+</p>
 
-### **Backend & Frameworks**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT Auth](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+-----
+<h3>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="35"/>
+  Frontend Development
+</h3>
 
-### **Database & Storage**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react" height="65"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="65"/>
+<img src="https://skillicons.dev/icons?i=js" height="65"/>
+<img src="https://skillicons.dev/icons?i=ts" height="65"/>
+<img src="https://skillicons.dev/icons?i=html" height="65"/>
+<img src="https://skillicons.dev/icons?i=css" height="65"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="65"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="65"/>
+</p>
 
-### **Development Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<h3>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="35"/>
+  Backend & Database frameworks
+</h3>
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" height="65"/>
+<img src="https://skillicons.dev/icons?i=express" height="65"/>
+<img src="https://skillicons.dev/icons?i=ts" height="65"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="65"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="65"/>
+<img src="https://skillicons.dev/icons?i=supabase" height="65"/>
+</p>
+
+
+<h3>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="35"/>
+  Development Tools
+</h3>
+
+<p>
+
+<!-- Version Control -->
+<img src="https://skillicons.dev/icons?i=git" height="65"/>
+<img src="https://skillicons.dev/icons?i=github" height="65"/>
+
+<!-- API & Testing -->
+<img src="https://skillicons.dev/icons?i=postman" height="65"/>
+<!-- Dev Environment -->
+<img src="https://skillicons.dev/icons?i=vscode" height="65"/>
+<img src="https://skillicons.dev/icons?i=linux" height="65"/>
+<img src="https://skillicons.dev/icons?i=bash" height="65"/>
+
+<!-- Package Managers -->
+<img src="https://skillicons.dev/icons?i=npm" height="65"/>
+
+<!-- Containers & Deployment -->
+<img src="https://skillicons.dev/icons?i=vercel" height="65"/>
+
+<!-- Design & Collaboration -->
+<img src="https://skillicons.dev/icons?i=figma" height="65"/>
+
+</p>
+
 
 ## 💻 Competitive Programming
 
@@ -59,11 +98,36 @@ I’m a Full Stack Web Developer focused on building scalable, production-ready 
 
 ---
 
-## 📫 Let's Connect
+<h3>
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="40"/>
+  Let’s Connect
+</h3>
 
-I'm always interested in discussing new opportunities, collaborating on projects, or helping with technical challenges.
+<br>
 
-**Preferred Contact:** [divesuyash@gmail.com](mailto:divesuyash@gmail.com)  
+<a href="mailto:divesuyash@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/suyashdive/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
+</a>
+
+<a href="https://instagram.com/suyash_435">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge"/>
+</a>
+
+<a href="https://twitter.com/DiveSuyash">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/SuyashDive2005">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"/>
+</a>
+
+<br>
+
+---
 
 ---
 
