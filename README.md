@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SuyashDive2005&color=6366f1&style=flat-square&label=Profile+Views)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/suyashdive/)
-[![Email](https://img.shields.io/badge/Email-prathameshjadhav--0198%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prathameshjadhav0198@gmail.com)
+[![Email](https://img.shields.io/badge/Email-prathameshjadhav--0198%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:divesuyash@gmail.com)
 
 ---
 
