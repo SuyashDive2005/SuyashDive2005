@@ -83,10 +83,6 @@ I’m a web developer who builds scalable and efficient web applications. I enjo
 
 <!-- Containers & Deployment -->
 <img src="https://skillicons.dev/icons?i=vercel" height="65"/>
-
-<!-- Design & Collaboration -->
-<img src="https://skillicons.dev/icons?i=figma" height="65"/>
-
 </p>
 
 <h2>
