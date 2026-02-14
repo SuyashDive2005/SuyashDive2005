@@ -87,13 +87,9 @@ I'm always interested in discussing new opportunities, collaborating on projects
 
 ---
 
-### Open to opportunities · Available for freelance work · Let's build something great together
-
----
-
 <div align="center">
   
 **Thank you for visiting my profile!** ⭐️  
-*Feel free to explore my repositories and don't hesitate to reach out.*
+*© 2026 Suyash Dive.See you in the commit Hostory.*
 
 </div>
