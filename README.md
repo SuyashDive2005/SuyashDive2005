@@ -51,7 +51,7 @@ I’m a Full Stack Web Developer focused on building scalable, production-ready 
 ## 💻 Competitive Programming
 
 ### 🔥 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/prathameshjadh?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/Suyash1987/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Suyash1987?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/Suyash1987/)
 
 **Practice Profiles:**  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Suyash1987/)
