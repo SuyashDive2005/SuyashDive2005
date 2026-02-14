@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a Full Stack Web Developer focused on building scalable, production-ready applications using modern JavaScript ecosystems. I specialize in architecting clean backend systems with Node.js and designing high-performance frontends with Next.js and TypeScript.
+I’m a web developer who builds scalable and efficient web applications. I enjoy creating clean backend systems with Node.js and developing modern, responsive interfaces using Next.js and TypeScript.
 
 ---
 
