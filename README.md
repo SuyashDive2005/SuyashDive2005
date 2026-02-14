@@ -67,17 +67,6 @@ I'm always interested in discussing new opportunities, collaborating on projects
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuyashDive2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashDive2005&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
----
-
 
 ## 🎮 GitHub Activity
 
