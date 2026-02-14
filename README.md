@@ -2,14 +2,18 @@
 **Web Developer** | NodeJs · MySql · React 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SuyashDive2005&color=6366f1&style=flat-square&label=Profile+Views)
+
 ---
+
 <h2>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45"/>
   About Me
 </h2>
+
 I’m a web developer who builds scalable and efficient web applications. I enjoy creating clean backend systems with Node.js and developing modern, responsive interfaces using Next.js and TypeScript.
 
 ---
+
 <h2>
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="45"/>
   Technical Expertise
@@ -28,7 +32,7 @@ I’m a web developer who builds scalable and efficient web applications. I enjo
 <img src="https://skillicons.dev/icons?i=cpp" height="60"/>
 </p>
 
------
+
 <h3>
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="35"/>
   Frontend Development
@@ -44,6 +48,7 @@ I’m a web developer who builds scalable and efficient web applications. I enjo
 <img src="https://skillicons.dev/icons?i=tailwind" height="65"/>
 <img src="https://skillicons.dev/icons?i=bootstrap" height="65"/>
 </p>
+
 
 <h3>
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="35"/>
@@ -66,24 +71,17 @@ I’m a web developer who builds scalable and efficient web applications. I enjo
 </h3>
 
 <p>
-
-<!-- Version Control -->
 <img src="https://skillicons.dev/icons?i=git" height="65"/>
 <img src="https://skillicons.dev/icons?i=github" height="65"/>
-
-<!-- API & Testing -->
 <img src="https://skillicons.dev/icons?i=postman" height="65"/>
-<!-- Dev Environment -->
 <img src="https://skillicons.dev/icons?i=vscode" height="65"/>
 <img src="https://skillicons.dev/icons?i=linux" height="65"/>
 <img src="https://skillicons.dev/icons?i=bash" height="65"/>
-
-<!-- Package Managers -->
 <img src="https://skillicons.dev/icons?i=npm" height="65"/>
-
-<!-- Containers & Deployment -->
 <img src="https://skillicons.dev/icons?i=vercel" height="65"/>
 </p>
+
+---
 
 <h2>
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="45"/>
@@ -131,12 +129,7 @@ I’m a web developer who builds scalable and efficient web applications. I enjo
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"/>
 </a>
 
-<br>
-
 ---
-
----
-
 
 <h2>
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="45"/>
