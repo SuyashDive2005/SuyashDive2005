@@ -10,10 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack Java Developer specializing in building scalable, production-ready web applications. I focus on clean architecture, microservices design, and creating seamless user experiences.
-
-**Currently:** Building enterprise-grade applications with Spring Boot and modern frontend frameworks  
-**Open to:** Full-time opportunities, freelance projects, and open-source collaboration
+I’m a Full Stack Web Developer focused on building scalable, production-ready applications using modern JavaScript ecosystems. I specialize in architecting clean backend systems with Node.js and designing high-performance frontends with Next.js and TypeScript.
 
 ---
 
@@ -33,26 +30,21 @@ I'm a Full Stack Java Developer specializing in building scalable, production-re
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### **Backend & Frameworks**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT Auth](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### **Database & Storage**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### **AI & Vector Databases**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Chroma](https://img.shields.io/badge/Chroma_DB-FF6F00?style=for-the-badge&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
 
 ### **Development Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -71,17 +63,16 @@ I'm a Full Stack Java Developer specializing in building scalable, production-re
 
 I'm always interested in discussing new opportunities, collaborating on projects, or helping with technical challenges.
 
-**Preferred Contact:** [prathameshjadhav0198@gmail.com](mailto:prathameshjadhav0198@gmail.com)  
-**Portfolio:** [prathameshjadhav.me](https://www.prathameshjadhav.me/)
+**Preferred Contact:** [divesuyash@gmail.com](mailto:divesuyash@gmail.com)  
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SuyashDive2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-2005&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashDive2005&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
