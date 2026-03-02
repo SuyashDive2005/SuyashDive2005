@@ -35,7 +35,7 @@ I’m a web developer who builds scalable and efficient web applications. I enjo
 
 <h3>
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="35"/>
-  Frontend Development
+  Libraries and Framework
 </h3>
 
 <p>
@@ -47,6 +47,9 @@ I’m a web developer who builds scalable and efficient web applications. I enjo
 <img src="https://skillicons.dev/icons?i=css" height="65"/>
 <img src="https://skillicons.dev/icons?i=tailwind" height="65"/>
 <img src="https://skillicons.dev/icons?i=bootstrap" height="65"/>
+<img src="https://skillicons.dev/icons?i=sklearn" height="65"/>
+<img src="https://skillicons.dev/icons?i=pytorch" height="65"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" height="65"/>
 </p>
 
 
@@ -66,7 +69,7 @@ I’m a web developer who builds scalable and efficient web applications. I enjo
 
 
 <h3>
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="35"/>
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35"/>
   Development Tools
 </h3>
 
