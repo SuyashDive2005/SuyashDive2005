@@ -41,8 +41,6 @@ I’m a web developer who builds scalable and efficient web applications. I enjo
 <p>
 <img src="https://skillicons.dev/icons?i=react" height="65"/>
 <img src="https://skillicons.dev/icons?i=nextjs" height="65"/>
-<img src="https://skillicons.dev/icons?i=js" height="65"/>
-<img src="https://skillicons.dev/icons?i=ts" height="65"/>
 <img src="https://skillicons.dev/icons?i=html" height="65"/>
 <img src="https://skillicons.dev/icons?i=css" height="65"/>
 <img src="https://skillicons.dev/icons?i=tailwind" height="65"/>
