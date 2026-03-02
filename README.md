@@ -138,10 +138,6 @@ I’m a web developer who builds scalable and efficient web applications. I enjo
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuyashDive2005&theme=tokyonight" />
-</p>
----
-<p align="center">
   <img src="assets/space-shooter.gif" />
 </p>
 
