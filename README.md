@@ -48,8 +48,9 @@ I’m a web developer who builds scalable and efficient web applications. I enjo
 <img src="https://skillicons.dev/icons?i=sklearn" height="65"/>
 <img src="https://skillicons.dev/icons?i=pytorch" height="65"/>
 <img src="https://skillicons.dev/icons?i=tensorflow" height="65"/>
+<img src="https://skillicons.dev/icons?i=pandas" height="65"/>
+<img src="https://skillicons.dev/icons?i=numpy" height="65"/>
 </p>
-
 
 <h3>
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="35"/>
