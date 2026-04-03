@@ -108,9 +108,9 @@ I’m a web developer who builds scalable and efficient web applications. I enjo
   <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="40"/>
   Let’s Connect
 </h3>
-
-<br>
-
+<a href="https://drive.google.com/file/d/1TV01TdMdZt6yGv26pgx0-o2faCI9CxFu/view?usp=drive_link" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-View-34A853?style=for-the-badge&logo=google-drive&logoColor=white"/>
+</a>
 <a href="mailto:divesuyash@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge"/>
 </a>
